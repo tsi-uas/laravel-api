@@ -1,5 +1,5 @@
 {
-    "name": "reedware/laravel-api",
+    "name": "halo/laravel-api",
     "description": "Adds configurable web api connections to your Laravel application.",
     "keywords": [
         "laravel", "api", "connection"
